@@ -1,5 +1,4 @@
 # Peer-graded Assignment: Bash, Make, Git, and GitHub
-2018-09-05 / 10:45
-                       Time zone: Europe/Vilnius (EEST, +0300)
+2018-09-05 / 10:54
 Number of lines in **guessinggame.sh**:
 40
